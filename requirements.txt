@@ -1,0 +1,8 @@
+langchain
+langchain-cohere
+langchain-openai
+langchain-anthropic
+python-dotenv
+cohere
+openai
+anthropic
